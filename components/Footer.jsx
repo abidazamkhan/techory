@@ -79,9 +79,14 @@ const Footer = () => {
                         ))}
                     </div>
                 </div>
-                <p className="py-4 text-sm text-slate-500">
-                    Copyright 2025 © Techory All Right Reserved.
+               <div className="flex items-center justify-between gap-2">
+                 <p className="py-4 text-sm text-slate-500">
+                    Copyright 2025 Techory All Right Reserved.
                 </p>
+                <p className="pb-4 text-sm text-slate-500">
+                    Developed by Abid Khan Azam
+                </p>
+               </div>
             </div>
         </footer>
     );
