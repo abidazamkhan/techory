@@ -83,9 +83,9 @@ const Footer = () => {
                  <p className="py-4 text-sm text-slate-500">
                     Copyright 2025 Techory All Right Reserved.
                 </p>
-                <p className="pb-4 text-sm text-slate-500">
-                    Developed by Abid Khan Azam
-                </p>
+                <a href="https://unipixer.com" className="pb-4 text-sm u text-slate-500">
+                    Developed by Abid Azam Khan (CEO UNIPIXER)
+                </a>
                </div>
             </div>
         </footer>
