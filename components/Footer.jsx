@@ -191,7 +191,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-start justify-between gap-10 py-10 border-b border-slate-500/30 text-slate-500">
           <div>
             <Link href="/" className="text-4xl font-semibold text-slate-700">
-              <span className="text-green-600">Tech</span>ory
+              <span className="text-green-600">Tech</span>Ori
               <span className="text-green-600 text-5xl leading-0">.</span>
             </Link>
             <p className="max-w-[410px] mt-6 text-sm">
@@ -240,7 +240,7 @@ const Footer = () => {
             Copyright 2025 Techori All Right Reserved.
           </p>
            <p className="py-4 text-center text-xs md:text-sm">
-        © 2026 Gadgety. Developed By <span className="font-medium ">Abid Azam Khan</span> · CEO of <span className="font-medium">Unipixer</span>
+        © 2026 TechOri. Developed By <span className="font-medium ">Abid Azam Khan</span> · CEO of <span className="font-medium">Unipixer</span>
       </p>
 
         </div>
